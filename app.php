@@ -94,10 +94,10 @@
 <h2> First application </h2>
 
 <form method="get">
-	<label for="to">to:* <label>
+	<label for="to">to:* </label>
 	<input type="text" name="to"><br><br>
 	
-	<label for="message">Message:* <label>
+	<label for="message">Message:* </label>
 	<input type="text" name="message"><br><br>
 	
 	<!-- This is the save button-->
